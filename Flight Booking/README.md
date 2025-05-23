@@ -1,4 +1,4 @@
-# Airplane Ticket Booking and Management System
+# Flight Booking Management 
 
 Welcome to the Flight Booking Management (Sky Book) project! This web application shows the methods of booking and managing flight tickets by providing a user-friendly interface, secure authentication, and QR code verification for enhanced security. Below you'll find detailed information on how to set up, use, and contribute to this project.
 
